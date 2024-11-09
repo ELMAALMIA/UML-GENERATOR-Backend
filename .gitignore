@@ -2,6 +2,7 @@
 target/
 !**/src/main/**/target/
 !**/src/test/**/target/
+uploads/
 
 # Maven Wrapper
 !.mvn/wrapper/maven-wrapper.jar
